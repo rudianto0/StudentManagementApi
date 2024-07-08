@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CeNwdOAggiKHROKwO6AKI8A1qBkrbknEBm/7YKGzIj9KWQhs9FEPV7Z/hcQNB+k0kZ07BPIjdEmWPwWOWS9M/g==",
+  "success": true,
+  "projectFilePath": "C:\\Rudi\\dot net core api\\StudentManagementApi\\StudentManagementApi\\StudentManagementApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CODE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\CODE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\CODE\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\CODE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\CODE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\CODE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
